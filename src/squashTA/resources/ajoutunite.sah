@@ -1,0 +1,10 @@
+_click(_span("Ouvrir"));
+_setValue(_textbox("NomAdmin"), "za");
+_setValue(_password("MotDePasse"), "za");
+_click(_button("Se connecter"));
+_click(_span("Paramètres"));
+_click(_div("Unités"));
+_click(_span("Ajouter"));
+_setValue(_textbox("txtcode"), "TEST");
+_setValue(_textbox("txtlibelle"), "TESTUNITE");
+_click(_span("Enregistrer"));
